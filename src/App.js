@@ -41,7 +41,7 @@ export default function App() {
             <Card.Body >
               <Row>
                 <Col xl={8} lg={8} md={8} sm={8} xs={8}>
-                  <h6 className=" d-flex align-items-center m-b-1 ml-1" style={{ fontWeight: 'bold', fontSize: 28, lineHeight: 1.2, padding: 10 }}>MOTOT STATUS</h6>
+                  <h6 className=" d-flex align-items-center m-b-1 ml-1" style={{ fontWeight: 'bold', fontSize: 28, lineHeight: 1.2, padding: 10 }}>MOTOR STATUS</h6>
                   <p className='m-b-0 ml-1 ' style={{ fontWeight: 'bold', fontSize: 22, lineHeight: 1.2, color: '#7e7e7e', padding: 10 }}>{Equipment_Value}</p>
                 </Col>
               </Row>
