@@ -33,7 +33,7 @@ export default function App() {
       width: '100vw',
       height: '100vh'
     }}>
-      <h1 style={{ color: 'wihte', fontWeight: 'bold', textAlign: 'center', padding: 80 }}>EQUIPMENT FAILURE MONITORING SYSTEM</h1>
+      <h1 style={{ color: 'white', fontWeight: 'bold', textAlign: 'center', padding: 80 }}>EQUIPMENT FAILURE MONITORING SYSTEM</h1>
       <Row style={{ justifyContent: 'center' }} >
 
         <Col xl={5} lg={6} md={6} sm={12} xs={12} >
